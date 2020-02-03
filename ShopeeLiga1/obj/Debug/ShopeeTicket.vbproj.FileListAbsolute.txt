@@ -1,0 +1,11 @@
+C:\Users\Asus\AppData\Local\Temporary Projects\ShopeeTicket\bin\Debug\ShopeeTicket.exe
+C:\Users\Asus\AppData\Local\Temporary Projects\ShopeeTicket\bin\Debug\ShopeeTicket.pdb
+C:\Users\Asus\AppData\Local\Temporary Projects\ShopeeTicket\bin\Debug\ShopeeTicket.xml
+C:\Users\Asus\AppData\Local\Temporary Projects\ShopeeTicket\obj\Debug\ShopeeTicket.Login.resources
+C:\Users\Asus\AppData\Local\Temporary Projects\ShopeeTicket\obj\Debug\ShopeeTicket.Resources.resources
+C:\Users\Asus\AppData\Local\Temporary Projects\ShopeeTicket\obj\Debug\ShopeeTicket.vbproj.GenerateResource.Cache
+C:\Users\Asus\AppData\Local\Temporary Projects\ShopeeTicket\obj\Debug\ShopeeTicket.exe
+C:\Users\Asus\AppData\Local\Temporary Projects\ShopeeTicket\obj\Debug\ShopeeTicket.xml
+C:\Users\Asus\AppData\Local\Temporary Projects\ShopeeTicket\obj\Debug\ShopeeTicket.pdb
+C:\Users\Asus\AppData\Local\Temporary Projects\ShopeeTicket\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Asus\AppData\Local\Temporary Projects\ShopeeTicket\bin\Debug\Bunifu.Core.dll

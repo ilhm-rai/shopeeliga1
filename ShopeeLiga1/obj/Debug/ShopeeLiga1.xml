@@ -1,0 +1,156 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ShopeeLiga1
+</name>
+</assembly>
+<members>
+<member name="P:ShopeeLiga1.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:ShopeeLiga1.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:ShopeeLiga1.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:ShopeeLiga1.shopeeticketDataSet.teamsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ShopeeLiga1.shopeeticketDataSet.matchesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ShopeeLiga1.shopeeticketDataSet.ticket_transactionDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ShopeeLiga1.shopeeticketDataSet.ticketsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ShopeeLiga1.shopeeticketDataSet.usersDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ShopeeLiga1.shopeeticketDataSet.view_transactionDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ShopeeLiga1.shopeeticketDataSet.teamsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ShopeeLiga1.shopeeticketDataSet.matchesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ShopeeLiga1.shopeeticketDataSet.ticket_transactionRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ShopeeLiga1.shopeeticketDataSet.ticketsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ShopeeLiga1.shopeeticketDataSet.usersRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ShopeeLiga1.shopeeticketDataSet.view_transactionRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ShopeeLiga1.shopeeticketDataSet.teamsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ShopeeLiga1.shopeeticketDataSet.matchesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ShopeeLiga1.shopeeticketDataSet.ticket_transactionRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ShopeeLiga1.shopeeticketDataSet.ticketsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ShopeeLiga1.shopeeticketDataSet.usersRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ShopeeLiga1.shopeeticketDataSet.view_transactionRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ShopeeLiga1.shopeeticketDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:ShopeeLiga1.shopeeticketDataSetTableAdapters.teamsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ShopeeLiga1.shopeeticketDataSetTableAdapters.matchesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ShopeeLiga1.shopeeticketDataSetTableAdapters.ticket_transactionTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ShopeeLiga1.shopeeticketDataSetTableAdapters.ticketsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ShopeeLiga1.shopeeticketDataSetTableAdapters.usersTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ShopeeLiga1.shopeeticketDataSetTableAdapters.view_transactionTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:ShopeeLiga1.shopeeticketDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(ShopeeLiga1.shopeeticketDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:ShopeeLiga1.shopeeticketDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(ShopeeLiga1.shopeeticketDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:ShopeeLiga1.shopeeticketDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(ShopeeLiga1.shopeeticketDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:ShopeeLiga1.shopeeticketDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:ShopeeLiga1.shopeeticketDataSetTableAdapters.TableAdapterManager.UpdateAll(ShopeeLiga1.shopeeticketDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:ShopeeLiga1.shopeeticketDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:ShopeeLiga1.shopeeticketDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:ShopeeLiga1.shopeeticketDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>
